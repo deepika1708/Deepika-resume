@@ -58,7 +58,14 @@ a = """<html>
                     <td>Barkatullah University Institute<br> Of Technology Bhopal</td>
                     <td>8.16 SGPA</td>
                     <td>2019</td>
+                </tr> 
+                <tr>
+                    <td>3rd Sem</td>
+                    <td>Barkatullah University Institute<br> Of Technology Bhopal</td>
+                    <td>8.36 SGPA</td>
+                    <td>2020</td>
                 </tr>
+                
                 
             </table>
         </div>
